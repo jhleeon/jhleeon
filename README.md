@@ -2,7 +2,7 @@
 
 ### I’m Jahedul Hasan (Leeon), or simply JH Leeon.
 
-I’m currently working with Laravel, a PHP-based framework, serving as a backend web application developer where I build and maintain APIs for various services 😎.
+I’m currently working with Laravel, a PHP-based framework, serving as a backend web application developer where I build and maintain APIs for various services. I also have experience using Vue 3 for frontend stuff 😎.
 
 I’ve got the basic skills in markup — I can build what’s needed, just not the kind of frontend magic that dedicated frontend devs do 😅. I often explore popular tech just to understand how they work and where they actually fit 🤘. I don’t really spend time chasing trends — if most real businesses don’t adopt them, they’re probably not worth it 🤷‍♂️.
 
