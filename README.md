@@ -10,6 +10,7 @@ I’ve got the basic skills in markup — I can build what’s needed, just not 
 
 [![Mail](https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail)](mailto:jhleon288@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jahedul-hasan-3957a813b)
+[![View Resume](https://img.shields.io/badge/View-My%20Resume-%23006f5c?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/14wFrsq3L31TP7u2LrQtDfo7k4XyOuu7_/view?usp=drive_link)
 
 | Languages | Code Time Status |
 |-----------|----------|
