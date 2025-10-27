@@ -14,4 +14,4 @@ I’ve got the basic skills in markup — I can build what’s needed, just not 
 
 | Languages | Code Time Status |
 |-----------|----------|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhleeon&layout=donut-vertical)](https://github.com/jhleeon/github-readme-stats) | [![wakatime](https://wakatime.com/badge/user/c259306a-643b-4625-b5b7-a9017130d1a0.svg)](https://wakatime.com/@c259306a-643b-4625-b5b7-a9017130d1a0) <br> [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jhleeon&layout=compact&custom_title=Last%207%20Days%20Stats)](https://github.com/jhleeon/github-readme-stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhleeon&layout=donut-vertical)](https://github.com/jhleeon/github-readme-stats) | [![wakatime](https://wakatime.com/badge/user/c259306a-643b-4625-b5b7-a9017130d1a0.svg)](https://wakatime.com/@c259306a-643b-4625-b5b7-a9017130d1a0) <br> [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jhleeon&layout=compact&custom_title=Last%20Week%20Stats)](https://github.com/jhleeon/github-readme-stats) |
